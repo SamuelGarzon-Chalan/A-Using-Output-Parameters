@@ -17,7 +17,6 @@ public class Program
     }
 }
 
-
 //Write a C# extension method named IsEven() for the int type that checks whether a number is even.
 
 //The method should return true if the number is even and false otherwise.
